@@ -24,7 +24,8 @@ I'm still afraid of making a huge mess with branches and messing with the master
 
 
 
-######How was your first experience of pairing in a GPS?
+#####How was your first experience of pairing in a GPS?
+
 Overall very positive. Like I mentioned earlier my pair didn't show up, so it was just me and the guide, but we had a good time together and she taught me a lot. Very cool! (insert cake emoji)
 
 
